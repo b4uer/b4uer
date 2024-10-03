@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Baur, and I'm a Creative Technology UT graduate interested in Computer Vision, Web/App Development, and UI Design.
+
+- 🔭 I’m currently working on various web applications and AI integrations.
+- 🌱 I’m currently learning the Full Stack JavaScript.
+- 📫 How to reach me: b.ongarbay02@gmail.com
+
+
 <!--
 **b4uer/b4uer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
