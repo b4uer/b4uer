@@ -2,8 +2,8 @@
 
 My name is Baur, and I'm a Creative Technology UT graduate interested in Computer Vision, Web/App Development, and UI Design.
 
-- 🔭 I’m currently working on personal web applications and AI integrations.
-- 🌱 I’m currently learning Full Stack JavaScript.
+- 🔭 I’m currently working on personal web applications, AI integrations, and OpenCV projects.
+- 🌱 I’m currently learning JavaScript, NodeJS, VueJS.
 - 📫 How to reach me: b.ongarbay02@gmail.com
 
 
